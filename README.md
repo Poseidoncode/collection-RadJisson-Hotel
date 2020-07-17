@@ -6,7 +6,7 @@
 
 - 技術
 
-  HTML + CSS
+  HTML + CSS + jQuery
 
 - GitHub Pages
 
