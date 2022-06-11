@@ -1,5 +1,6 @@
 # [切版+RWD] 飯店首頁實作
 > 此為手刻版飯店首頁
+
 ![image](https://github.com/Poseidoncode/collection-RadJisson-Hotel/blob/gh-pages/img/landscape.PNG)
 
 - 說明
