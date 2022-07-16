@@ -1,5 +1,5 @@
-# [切版+RWD] 飯店首頁實作
-> 此為手刻版飯店首頁
+# [切版+RWD] 飯店Landing Page實作
+> 此為手刻版飯店Landing Page
 
 ![RadJisson-Hotel](https://raw.githubusercontent.com/Poseidoncode/collection-RadJisson-Hotel/gh-pages/img/landscape.PNG "RadJisson-Hotel")
 
